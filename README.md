@@ -1,4 +1,4 @@
 # cloud-and-spark-environments
 
 Some of the basics of data manipulation with Databricks. 
-Each file contains different exercises showing the way to do them. 
+Each file contains the explanation of different excercises of the basics and also showing the way to do them.
